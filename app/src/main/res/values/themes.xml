@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.QuoteApp" parent="@style/Theme.Leanback" />
+</resources>
